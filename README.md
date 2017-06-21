@@ -12,4 +12,4 @@ Created UI and MainActivity as per the problem statement.  Carefully created onC
 Beside that made fragment with the help of fragmentManager and fragmentTransaction for onClick event thereafter Fragment has been loaded into the FrameLayout.Next step is creating Fragment class SimpleAddition.java where input hass been taken from the user and string conversion performed and string value is set to the TextView in the UI of fragment.
 
 
-README, Screenshots of output in geneymotion, Apk file and Source Code is uploaded in git repository
+README, Screenshots of output (2) in geneymotion, Apk file and Source Code is uploaded in git repository
